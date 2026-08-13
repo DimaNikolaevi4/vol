@@ -1,0 +1,1879 @@
+[
+  {
+    "ticket": "4",
+    "qi": 0,
+    "num_in_ticket": 1,
+    "text": "Какой нормативный документ определяет требования к качеству обработки детали?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Приказ директора"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Журнал учёта"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Паспорт станка"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Рабочий чертёж и технологический процесс"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 0,
+        "qnum": 1,
+        "key": "D",
+        "matrix": "D"
+      },
+      {
+        "ticket": "6",
+        "qi": 2,
+        "qnum": 3,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 1,
+    "num_in_ticket": 2,
+    "text": "Что необходимо сделать при поражении работника электрическим током?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Сразу начать искусственное дыхание"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Обесточить оборудование и вызвать скорую помощь"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Дать пострадавшему воду"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Отвести пострадавшего в медпункт"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 1,
+        "qnum": 2,
+        "key": "B",
+        "matrix": "B"
+      },
+      {
+        "ticket": "5",
+        "qi": 1,
+        "qnum": 2,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 2,
+    "num_in_ticket": 3,
+    "text": "Какой признак указывает на необходимость подналадки станка?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Систематическое отклонение размеров деталей от заданных"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Шум в редукторе"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Повышение температуры в цеху"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Изменение цвета эмали станка"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 2,
+        "qnum": 3,
+        "key": "A",
+        "matrix": "A"
+      },
+      {
+        "ticket": "6",
+        "qi": 12,
+        "qnum": 13,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 3,
+    "num_in_ticket": 4,
+    "text": "Что является заготовкой при механической обработке на станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Готовая деталь"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Предмет труда, из которого изготавливают деталь снятием стружки"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Режущий инструмент"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Приспособление для закрепления"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 3,
+        "qnum": 4,
+        "key": "B",
+        "matrix": "B"
+      },
+      {
+        "ticket": "6",
+        "qi": 15,
+        "qnum": 16,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 4,
+    "num_in_ticket": 5,
+    "text": "Какой резец применяется для обработки перпендикулярной к оси поверхности на токарном станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Проходной отрезной"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Расточной"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Резьбовой"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Подрезной торцевой"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 4,
+        "qnum": 5,
+        "key": "D",
+        "matrix": "D"
+      },
+      {
+        "ticket": "5",
+        "qi": 12,
+        "qnum": 13,
+        "key": "D",
+        "matrix": "D"
+      },
+      {
+        "ticket": "6",
+        "qi": 6,
+        "qnum": 7,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 5,
+    "num_in_ticket": 6,
+    "text": "Какой документ содержит последовательность операций обработки детали?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Чертёж детали"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Спецификация"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Маршрутная карта"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Паспорт станка"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 5,
+        "qnum": 6,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 6,
+    "num_in_ticket": 7,
+    "text": "Какой датчик используется для определения положения детали на станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Датчик температуры"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Датчик давления"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Концевой выключатель"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Датчик влажности"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 6,
+        "qnum": 7,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 7,
+    "num_in_ticket": 8,
+    "text": "Какой измерительный инструмент применяется для контроля наружных размеров с точностью 0,01 мм?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Линейка металлическая"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Штангенциркуль ШЦ-I"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Микрометр гладкий"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Угломер"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 7,
+        "qnum": 8,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 8,
+    "num_in_ticket": 9,
+    "text": "Какое приспособление применяется для закрепления заготовки при фрезерной обработке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Патрон"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Центры"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Люнет"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Тиски станочные"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 8,
+        "qnum": 9,
+        "key": "D",
+        "matrix": "D"
+      },
+      {
+        "ticket": "5",
+        "qi": 10,
+        "qnum": 11,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 9,
+    "num_in_ticket": 10,
+    "text": "Из какого материала изготавливают резцы для обработки закалённых сталей?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Углеродистая сталь"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Быстрорежущая сталь"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Твёрдый сплав (ВК, ТК)"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Чугун"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 9,
+        "qnum": 10,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 10,
+    "num_in_ticket": 11,
+    "text": "Что такое крутящий момент?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Сила, действующая вдоль оси"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Произведение силы на плечо, вызывающее вращение"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Скорость вращения вала"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Мощность электродвигателя"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 10,
+        "qnum": 11,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 11,
+    "num_in_ticket": 12,
+    "text": "Какой инструмент используется для контроля диаметра отверстия?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Штангенциркуль"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Микрометр"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Линейка"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Нутромер"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 11,
+        "qnum": 12,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 12,
+    "num_in_ticket": 13,
+    "text": "Какой тип линии на чертеже обозначает невидимый контур детали?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Сплошная толстая"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Штриховая"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Штрихпунктирная"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Волнистая"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 12,
+        "qnum": 13,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 13,
+    "num_in_ticket": 14,
+    "text": "Что такое твёрдость материала?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Способность материала выдерживать растяжение"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Способность материала сопротивляться проникновению в него другого тела"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Способность материала восстанавливать форму после деформации"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Способность материала проводить тепло"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 13,
+        "qnum": 14,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 14,
+    "num_in_ticket": 15,
+    "text": "Какой вид обработки заготовки выполняется на станке с вращающимся многолезвийным инструментом?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Нарезание резьбы"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Точение"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Протягивание"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Фрезерование плоскостей, пазов и фасонных поверхностей"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 14,
+        "qnum": 15,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 15,
+    "num_in_ticket": 16,
+    "text": "Что такое шпиндель станка?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Электродвигатель станка"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Вращающийся вал для закрепления заготовки или инструмента"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Неподвижная опора"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Устройство для охлаждения"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 15,
+        "qnum": 16,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 16,
+    "num_in_ticket": 17,
+    "text": "Какой квалитет точности соответствует грубой (черновой) обработке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "IT5"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "IT7"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "IT12-IT14"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "IT3"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 16,
+        "qnum": 17,
+        "key": "C",
+        "matrix": "C"
+      },
+      {
+        "ticket": "5",
+        "qi": 4,
+        "qnum": 5,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 17,
+    "num_in_ticket": 18,
+    "text": "Какой инструмент применяется для образования отверстий на токарном станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Резец проходной"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Сверло спиральное"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Фреза"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Развертка"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 17,
+        "qnum": 18,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 18,
+    "num_in_ticket": 19,
+    "text": "Какой огнетушитель следует использовать для тушения возгорания в электроустановках станка?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Водный"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Пенный"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Углекислотный"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Порошковый с водой"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 18,
+        "qnum": 19,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "4",
+    "qi": 19,
+    "num_in_ticket": 20,
+    "text": "Какой вид станка предназначен для обработки отверстий?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Сверлильный"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Токарный"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Фрезерный"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Протяжной"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "4",
+        "qi": 19,
+        "qnum": 20,
+        "key": "A",
+        "matrix": "A"
+      },
+      {
+        "ticket": "5",
+        "qi": 19,
+        "qnum": 20,
+        "key": "A",
+        "matrix": "A"
+      },
+      {
+        "ticket": "6",
+        "qi": 7,
+        "qnum": 8,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 0,
+    "num_in_ticket": 1,
+    "text": "Какой вид обработки применяется для получения гладкой поверхности с низкой шероховатостью?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Черновое точение"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Шлифование"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Сверление"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Строгание"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 0,
+        "qnum": 1,
+        "key": "B",
+        "matrix": "B"
+      },
+      {
+        "ticket": "6",
+        "qi": 17,
+        "qnum": 18,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 2,
+    "num_in_ticket": 3,
+    "text": "Что такое люнет и для чего он применяется?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Приспособление для заточки резцов"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Устройство для охлаждения"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Опорная втулка, предотвращающая прогиб длинной заготовки при точении"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Приспособление для нарезания резьбы"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 2,
+        "qnum": 3,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 3,
+    "num_in_ticket": 4,
+    "text": "В чём главное отличие автомата от полуавтомата?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Автомат работает быстрее"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Автомат выполняет все рабочие и вспомогательные движения автоматически, полуавтомат — только рабочие"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Полуавтомат имеет меньшие габариты"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Автомат не требует обслуживания"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 3,
+        "qnum": 4,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 5,
+    "num_in_ticket": 6,
+    "text": "Какой параметр режима резания кодируется буквой S (подача)?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Скорость вращения шпинделя"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Перемещение инструмента за один оборот заготовки"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Глубина резания"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Ширина срезаемого слоя"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 5,
+        "qnum": 6,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 6,
+    "num_in_ticket": 7,
+    "text": "Какая информация указывается в технологической документации на конкретный этап обработки?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Только название детали"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Содержание операции, оборудование, инструмент, режимы обработки"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Только материал заготовки"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Только нормы времени"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 6,
+        "qnum": 7,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 7,
+    "num_in_ticket": 8,
+    "text": "Что означает запись Ø50H7 на рабочем чертеже?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Диаметр 50 мм, номинальный размер"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Диаметр 50 мм с полем допуска H по 7-му квалитету"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Диаметр 50 мм, твёрдость HRC 7"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Отверстие 50 мм, 7-й сорт"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 7,
+        "qnum": 8,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 8,
+    "num_in_ticket": 9,
+    "text": "Какой тип подшипника предназначен для восприятия осевой нагрузки?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Радиальный шариковый"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Радиально-упорный"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Упорный"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Сферический"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 8,
+        "qnum": 9,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 9,
+    "num_in_ticket": 10,
+    "text": "Что является основной причиной быстрого износа режущего инструмента?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Низкая скорость резания"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Превышение рекомендуемых режимов резания и отсутствие СОЖ"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Малая глубина резания"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Малая подача"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 9,
+        "qnum": 10,
+        "key": "B",
+        "matrix": "B"
+      },
+      {
+        "ticket": "6",
+        "qi": 3,
+        "qnum": 4,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 11,
+    "num_in_ticket": 12,
+    "text": "Какой метод обработки обеспечивает наивысшую точность и чистоту поверхности?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Фрезерование"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Строгание"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Шлифование"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Сверление"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 11,
+        "qnum": 12,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 13,
+    "num_in_ticket": 14,
+    "text": "Что необходимо сделать перед началом работы на станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Сразу включить станок и начать работу"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Сообщить мастеру о начале работы"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Протереть станок влажной тряпкой"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Провести осмотр станка и проверить исправность защитных устройств"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 13,
+        "qnum": 14,
+        "key": "D",
+        "matrix": "D"
+      },
+      {
+        "ticket": "6",
+        "qi": 13,
+        "qnum": 14,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 14,
+    "num_in_ticket": 15,
+    "text": "Какая марка стали обозначает углеродистую конструкционную сталь по ГОСТ 380?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Ст3"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "У8"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "45"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Р6М5"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 14,
+        "qnum": 15,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 15,
+    "num_in_ticket": 16,
+    "text": "Что такое подналадка станка?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Капитальный ремонт станка"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Замена электродвигателя"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Установка нового станка"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Корректировка настройки станка для восстановления точности обработки в процессе работы"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 15,
+        "qnum": 16,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 16,
+    "num_in_ticket": 17,
+    "text": "Какая посадка обеспечивает неподвижное соединение деталей?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Скользящая"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Переходная"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "С натягом"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Свободная"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 16,
+        "qnum": 17,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 17,
+    "num_in_ticket": 18,
+    "text": "Какой квалитет точности можно обеспечить чистовым точением на токарном станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "IT8"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "IT5"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "IT14"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "IT3"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 17,
+        "qnum": 18,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "5",
+    "qi": 18,
+    "num_in_ticket": 19,
+    "text": "Какой вид конструкторской документации показывает форму и размеры отдельного изделия?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Сборочный"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Габаритный"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Рабочий чертёж детали"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Кинематическая схема"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "5",
+        "qi": 18,
+        "qnum": 19,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 0,
+    "num_in_ticket": 1,
+    "text": "Какой параметр резца характеризует угол между направлением движения подачи и расположением режущей кромки?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Угол между режущей кромкой и обработанной поверхностью"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Угол наклона передней поверхности"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Угол при вершине резца"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Угол между проекцией главной режущей кромки на основную плоскость и направлением подачи"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 0,
+        "qnum": 1,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 1,
+    "num_in_ticket": 2,
+    "text": "Какой вид механического привода применяется для изменения частоты вращения в станках?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Ремённая передача"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Гидравлический цилиндр"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Пружинный механизм"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Электромагнитная муфта"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 1,
+        "qnum": 2,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 4,
+    "num_in_ticket": 5,
+    "text": "Что такое допуск размера?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Разность между наибольшим и наименьшим предельными размерами"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Разрешение на выполнение работы"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Номинальный размер детали"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Отклонение формы детали"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 4,
+        "qnum": 5,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 5,
+    "num_in_ticket": 6,
+    "text": "Каким прибором контролируют шероховатость поверхности детали?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Штангенциркулем"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Микрометром"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Индикатором часового типа"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Профилометром"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 5,
+        "qnum": 6,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 8,
+    "num_in_ticket": 9,
+    "text": "Для чего предназначена коробка скоростей станка?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Для изменения направления подачи"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Для изменения частоты вращения шпинделя"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Для охлаждения заготовки"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Для подачи СОЖ"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 8,
+        "qnum": 9,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 9,
+    "num_in_ticket": 10,
+    "text": "Какой вид механической обработки осуществляется путём снятия стружки с заготовки?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Литьё"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Штамповка"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Точение"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Сварка"
+      }
+    ],
+    "key": "C",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 9,
+        "qnum": 10,
+        "key": "C",
+        "matrix": "C"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 10,
+    "num_in_ticket": 11,
+    "text": "Какая операция выполняется первой при обработке вала на токарном станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Нарезание резьбы"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Шлифование"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Полирование"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Черновое точение"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 10,
+        "qnum": 11,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 11,
+    "num_in_ticket": 12,
+    "text": "Что такое ЧПУ в станкостроении?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Частотное преобразующее устройство"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Центральный пульт управления"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Чувствительный пьезоэлемент управления"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Числовое программное управление"
+      }
+    ],
+    "key": "D",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 11,
+        "qnum": 12,
+        "key": "D",
+        "matrix": "D"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 14,
+    "num_in_ticket": 15,
+    "text": "Какой документ регламентирует требования безопасности на рабочем месте оператора станка?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Инструкция по охране труда"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Договор аренды"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "План эвакуации"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Технологическая карта"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 14,
+        "qnum": 15,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 16,
+    "num_in_ticket": 17,
+    "text": "Какое правило безопасности необходимо соблюдать при работе на станке?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Работать без защитных очков"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Не производить измерения и уборку при работающем станке"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Останавливать станок руками"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Работать в свободной одежде"
+      }
+    ],
+    "key": "B",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 16,
+        "qnum": 17,
+        "key": "B",
+        "matrix": "B"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 18,
+    "num_in_ticket": 19,
+    "text": "Для чего применяется протачивание канавки на цилиндрической поверхности?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "Для выхода резьбового резца и шлифовального круга"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "Для украшения детали"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "Для уменьшения массы детали"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "Для маркировки"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 18,
+        "qnum": 19,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  },
+  {
+    "ticket": "6",
+    "qi": 19,
+    "num_in_ticket": 20,
+    "text": "Какая группа по электробезопасности необходима оператору станка для самостоятельной работы с электрооборудованием?",
+    "variants": [
+      {
+        "letter_cyr": "а",
+        "letter": "A",
+        "text": "II группа"
+      },
+      {
+        "letter_cyr": "б",
+        "letter": "B",
+        "text": "I группа"
+      },
+      {
+        "letter_cyr": "в",
+        "letter": "C",
+        "text": "III группа"
+      },
+      {
+        "letter_cyr": "г",
+        "letter": "D",
+        "text": "IV группа"
+      }
+    ],
+    "key": "A",
+    "all_occurrences": [
+      {
+        "ticket": "6",
+        "qi": 19,
+        "qnum": 20,
+        "key": "A",
+        "matrix": "A"
+      }
+    ]
+  }
+]
