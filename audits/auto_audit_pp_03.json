@@ -1,0 +1,155 @@
+{
+  "file": "/home/z/my-project/vol/Оператор автоматических и полуавтоматических станков и линий станков/профессиональной переподготовки 15474 Оператор станков/03. ПО_ПП_ФОС_Оператор станков_2-3_разр ОП.0.0.docx",
+  "total_questions": 20,
+  "defects": {
+    "M": [],
+    "S": [],
+    "E": [
+      {
+        "question": 10,
+        "variant": "A",
+        "text": "У8",
+        "severity": "critical"
+      },
+      {
+        "question": 10,
+        "variant": "C",
+        "text": "45",
+        "severity": "critical"
+      }
+    ],
+    "H": [],
+    "L": [],
+    "A": [],
+    "N": [],
+    "D": [
+      {
+        "type": "D_low",
+        "letter": "A",
+        "count": 3,
+        "min": 4,
+        "max": 6,
+        "severity": "low"
+      },
+      {
+        "type": "D_high",
+        "letter": "B",
+        "count": 8,
+        "min": 4,
+        "max": 6,
+        "severity": "low"
+      },
+      {
+        "type": "D_high",
+        "letter": "C",
+        "count": 9,
+        "min": 4,
+        "max": 6,
+        "severity": "low"
+      },
+      {
+        "type": "D_low",
+        "letter": "D",
+        "count": 0,
+        "min": 4,
+        "max": 6,
+        "severity": "low"
+      }
+    ]
+  },
+  "distribution": {
+    "A": 3,
+    "B": 8,
+    "C": 9,
+    "D": 0
+  },
+  "d_per_question": [
+    {
+      "num": 1,
+      "answer": "A"
+    },
+    {
+      "num": 2,
+      "answer": "A"
+    },
+    {
+      "num": 3,
+      "answer": "C"
+    },
+    {
+      "num": 4,
+      "answer": "B"
+    },
+    {
+      "num": 5,
+      "answer": "C"
+    },
+    {
+      "num": 6,
+      "answer": "B"
+    },
+    {
+      "num": 7,
+      "answer": "C"
+    },
+    {
+      "num": 8,
+      "answer": "C"
+    },
+    {
+      "num": 9,
+      "answer": "B"
+    },
+    {
+      "num": 10,
+      "answer": "B"
+    },
+    {
+      "num": 11,
+      "answer": "A"
+    },
+    {
+      "num": 12,
+      "answer": "B"
+    },
+    {
+      "num": 13,
+      "answer": "C"
+    },
+    {
+      "num": 14,
+      "answer": "B"
+    },
+    {
+      "num": 15,
+      "answer": "C"
+    },
+    {
+      "num": 16,
+      "answer": "C"
+    },
+    {
+      "num": 17,
+      "answer": "C"
+    },
+    {
+      "num": 18,
+      "answer": "B"
+    },
+    {
+      "num": 19,
+      "answer": "C"
+    },
+    {
+      "num": 20,
+      "answer": "B"
+    }
+  ],
+  "summary": {
+    "critical": 2,
+    "high": 0,
+    "medium": 0,
+    "low": 4,
+    "total_defects": 6
+  }
+}
