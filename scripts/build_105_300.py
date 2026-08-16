@@ -86,48 +86,28 @@ def swap_answer(q, target_letter):
 indices = list(range(len(all_questions)))
 random.shuffle(indices)
 
-# First pass: try to balance
-need_more = {}
-for letter in 'ABCD':
-    diff = target_per_option - counts[letter]
-    if diff > 0:
-        need_more[letter] = diff
-
-# Find questions from overrepresented options to reassign
-idx = 0
-for letter, need in need_more.items():
-    reassigned = 0
+# Iterative D-balance: keep swapping until all are at target
+MAX_ROUNDS = 100
+for round_num in range(MAX_ROUNDS):
+    counts = Counter(q['ans'] for q in all_questions)
+    over = {l: counts[l] - target_per_option for l in 'ABCD' if counts[l] > target_per_option}
+    under = {l: target_per_option - counts[l] for l in 'ABCD' if counts[l] < target_per_option}
+    
+    if not over and not under:
+        print(f"D-balance achieved in round {round_num + 1}")
+        break
+    
+    # Pick one from over and one from under, swap
+    over_letter = next(iter(over))
+    under_letter = next(iter(under))
+    
     for i in indices:
-        if reassigned >= need:
+        if all_questions[i]['ans'] == over_letter:
+            all_questions[i] = swap_answer(copy.deepcopy(all_questions[i]), under_letter)
             break
-        q = all_questions[i]
-        if q['ans'] not in need_more and q['ans'] != letter:
-            # Take from an overrepresented option
-            all_questions[i] = swap_answer(copy.deepcopy(q), letter)
-            reassigned += 1
-
-# Second pass: if still not balanced, do another round
-counts = Counter(q['ans'] for q in all_questions)
-print(f"After D-balance pass 1: {dict(sorted(counts.items()))}")
-
-need_more = {}
-for letter in 'ABCD':
-    diff = target_per_option - counts[letter]
-    if diff > 0:
-        need_more[letter] = diff
-
-for letter, need in need_more.items():
-    reassigned = 0
-    for i in indices:
-        if reassigned >= need:
-            break
-        q = all_questions[i]
-        if q['ans'] not in need_more and q['ans'] != letter:
-            all_questions[i] = swap_answer(copy.deepcopy(q), letter)
-            reassigned += 1
 
 counts = Counter(q['ans'] for q in all_questions)
-print(f"After D-balance pass 2: {dict(sorted(counts.items()))}")
+print(f"After D-balance: {dict(sorted(counts.items()))}")
 
 # Verify all answers are correct after swapping
 errors = 0
