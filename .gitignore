@@ -1,0 +1,5 @@
+# Временные файлы Word и служебный мусор
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
